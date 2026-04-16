@@ -1,0 +1,137 @@
+{
+  "Software Engineer": {
+    "label": "Software Engineer",
+    "category": "Engineering",
+    "criticalKeywords": ["JavaScript", "Python", "Java", "algorithms", "data structures", "REST API", "Git", "SQL", "system design", "microservices"],
+    "niceToHave": ["TypeScript", "Docker", "Kubernetes", "CI/CD", "AWS", "Azure", "GraphQL", "Redis", "unit testing", "Jest"],
+    "softSkills": ["problem solving", "teamwork", "communication", "agile", "scrum"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 5 },
+    "icon": "💻"
+  },
+  "Frontend Engineer": {
+    "label": "Frontend Engineer",
+    "category": "Engineering",
+    "criticalKeywords": ["React", "JavaScript", "HTML", "CSS", "TypeScript", "responsive design", "REST API", "Git", "UI/UX", "webpack"],
+    "niceToHave": ["Next.js", "Vue.js", "Tailwind", "Redux", "GraphQL", "Jest", "Cypress", "Figma", "performance optimization", "accessibility"],
+    "softSkills": ["attention to detail", "collaboration", "problem solving", "communication"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 4 },
+    "icon": "🎨"
+  },
+  "Backend Engineer": {
+    "label": "Backend Engineer",
+    "category": "Engineering",
+    "criticalKeywords": ["Node.js", "Python", "Java", "REST API", "SQL", "MongoDB", "databases", "Git", "authentication", "server"],
+    "niceToHave": ["Docker", "Kubernetes", "Redis", "RabbitMQ", "microservices", "AWS", "PostgreSQL", "GraphQL", "CI/CD", "performance"],
+    "softSkills": ["problem solving", "system thinking", "teamwork", "communication"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 5 },
+    "icon": "⚙️"
+  },
+  "Full Stack Developer": {
+    "label": "Full Stack Developer",
+    "category": "Engineering",
+    "criticalKeywords": ["React", "Node.js", "JavaScript", "SQL", "MongoDB", "REST API", "HTML", "CSS", "Git", "databases"],
+    "niceToHave": ["TypeScript", "Docker", "AWS", "Next.js", "Redis", "GraphQL", "testing", "CI/CD", "system design", "deployment"],
+    "softSkills": ["versatility", "problem solving", "communication", "agile"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 4 },
+    "icon": "🔗"
+  },
+  "Data Analyst": {
+    "label": "Data Analyst",
+    "category": "Data",
+    "criticalKeywords": ["SQL", "Python", "Excel", "data visualization", "Power BI", "Tableau", "statistics", "analytics", "reporting", "dashboards"],
+    "niceToHave": ["R", "machine learning", "pandas", "NumPy", "Google Analytics", "A/B testing", "ETL", "data cleaning", "Jupyter", "storytelling"],
+    "softSkills": ["analytical thinking", "communication", "attention to detail", "presentation"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 4 },
+    "icon": "📊"
+  },
+  "Data Scientist": {
+    "label": "Data Scientist",
+    "category": "Data",
+    "criticalKeywords": ["Python", "machine learning", "statistics", "SQL", "pandas", "scikit-learn", "deep learning", "data analysis", "R", "modeling"],
+    "niceToHave": ["TensorFlow", "PyTorch", "NLP", "computer vision", "feature engineering", "Spark", "AWS", "MLflow", "A/B testing", "research"],
+    "softSkills": ["analytical thinking", "research", "communication", "problem solving"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 5 },
+    "icon": "🔬"
+  },
+  "ML Engineer": {
+    "label": "ML Engineer",
+    "category": "Data",
+    "criticalKeywords": ["Python", "TensorFlow", "PyTorch", "machine learning", "deep learning", "model deployment", "MLOps", "scikit-learn", "data pipelines", "Docker"],
+    "niceToHave": ["Kubernetes", "AWS SageMaker", "Spark", "feature store", "model monitoring", "ONNX", "Kubeflow", "distributed training", "CI/CD", "GPU"],
+    "softSkills": ["research mindset", "problem solving", "collaboration", "communication"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 5 },
+    "icon": "🤖"
+  },
+  "DevOps Engineer": {
+    "label": "DevOps Engineer",
+    "category": "Infrastructure",
+    "criticalKeywords": ["Docker", "Kubernetes", "CI/CD", "AWS", "Linux", "Terraform", "Jenkins", "Git", "monitoring", "infrastructure"],
+    "niceToHave": ["Ansible", "Prometheus", "Grafana", "Azure", "GCP", "Helm", "Nginx", "scripting", "security", "cost optimization"],
+    "softSkills": ["problem solving", "automation mindset", "communication", "collaboration"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 5 },
+    "icon": "🛠️"
+  },
+  "Cloud Engineer": {
+    "label": "Cloud Engineer",
+    "category": "Infrastructure",
+    "criticalKeywords": ["AWS", "Azure", "GCP", "cloud architecture", "Terraform", "Docker", "Kubernetes", "security", "networking", "cost optimization"],
+    "niceToHave": ["Serverless", "Lambda", "EKS", "IAM", "VPC", "CDN", "monitoring", "automation", "DevOps", "compliance"],
+    "softSkills": ["problem solving", "architecture thinking", "communication", "documentation"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 5 },
+    "icon": "☁️"
+  },
+  "UI/UX Designer": {
+    "label": "UI/UX Designer",
+    "category": "Design",
+    "criticalKeywords": ["Figma", "user research", "wireframes", "prototyping", "usability", "design systems", "UX", "UI", "user testing", "accessibility"],
+    "niceToHave": ["Adobe XD", "Sketch", "motion design", "information architecture", "CSS", "HTML", "Zeplin", "responsive design", "analytics", "A/B testing"],
+    "softSkills": ["empathy", "creativity", "communication", "collaboration", "attention to detail"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 4 },
+    "icon": "✏️"
+  },
+  "Product Manager": {
+    "label": "Product Manager",
+    "category": "Product",
+    "criticalKeywords": ["product roadmap", "user stories", "agile", "scrum", "stakeholder management", "KPIs", "product strategy", "A/B testing", "analytics", "go-to-market"],
+    "niceToHave": ["SQL", "Jira", "data analysis", "OKRs", "competitive analysis", "wireframes", "market research", "growth", "B2B", "B2C"],
+    "softSkills": ["leadership", "communication", "prioritization", "problem solving", "empathy"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 5 },
+    "icon": "📋"
+  },
+  "Business Analyst": {
+    "label": "Business Analyst",
+    "category": "Product",
+    "criticalKeywords": ["requirements gathering", "business analysis", "SQL", "Excel", "stakeholder management", "process improvement", "documentation", "JIRA", "data analysis", "reporting"],
+    "niceToHave": ["Power BI", "Tableau", "Agile", "Scrum", "BPMN", "use cases", "gap analysis", "change management", "Visio", "Python"],
+    "softSkills": ["analytical thinking", "communication", "problem solving", "attention to detail"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 4 },
+    "icon": "📈"
+  },
+  "QA Engineer": {
+    "label": "QA Engineer",
+    "category": "Engineering",
+    "criticalKeywords": ["manual testing", "automation testing", "Selenium", "test cases", "bug tracking", "JIRA", "regression testing", "API testing", "Python", "Java"],
+    "niceToHave": ["Cypress", "Playwright", "Postman", "JMeter", "performance testing", "CI/CD", "Docker", "security testing", "mobile testing", "TestNG"],
+    "softSkills": ["attention to detail", "analytical thinking", "communication", "problem solving"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 4 },
+    "icon": "🧪"
+  },
+  "Mobile Developer": {
+    "label": "Mobile Developer",
+    "category": "Engineering",
+    "criticalKeywords": ["React Native", "Flutter", "iOS", "Android", "Swift", "Kotlin", "mobile UI", "REST API", "Git", "app store"],
+    "niceToHave": ["Firebase", "push notifications", "offline storage", "performance optimization", "CI/CD", "testing", "Xcode", "Android Studio", "state management", "deep linking"],
+    "softSkills": ["problem solving", "attention to detail", "collaboration", "communication"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 4 },
+    "icon": "📱"
+  },
+  "Data Engineer": {
+    "label": "Data Engineer",
+    "category": "Data",
+    "criticalKeywords": ["Python", "SQL", "ETL", "data pipelines", "Spark", "Hadoop", "data warehousing", "Airflow", "databases", "AWS"],
+    "niceToHave": ["Kafka", "Databricks", "dbt", "Redshift", "Snowflake", "BigQuery", "Terraform", "Docker", "data modeling", "streaming"],
+    "softSkills": ["problem solving", "attention to detail", "collaboration", "communication"],
+    "experienceYears": { "junior": 0, "mid": 2, "senior": 5 },
+    "icon": "🔧"
+  }
+}
