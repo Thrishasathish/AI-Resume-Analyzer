@@ -12,7 +12,14 @@ const analysisRoutes = require('./routes/analysisRoutes');
 
 const app = express();
 
-app.use(cors({ origin: process.env.CLIENT_URL || 'http://localhost:5173', credentials: true }));
+app.use(cors({ 
+  origin: [
+    'http://localhost:5173',
+    'https://ai-resume-analyzer-nine-sooty.vercel.app',
+    'https://ai-resume-analyzer-kmhqau13j-thrishas-projects-3e83cd12.vercel.app'
+  ], 
+  credentials: true 
+}));
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true }));
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
